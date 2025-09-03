@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Faheem Hemboum"
+title: "Hitchens"
 ---
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+Writer, editor, Black Studies and Africa History scholar.
 
 ![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
 
